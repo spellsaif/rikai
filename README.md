@@ -80,14 +80,20 @@ That precision is the difference between getting it right on the first try and s
 Point Rikai at any codebase:
 
 ```
-Turn ./my-project into a course
+explain this codebase
+```
+
+```
+help me understand this project
 ```
 ```
-Make a course from https://github.com/user/repo
+make a course from this repo https://github.com/user/repo
 ```
+
 ```
-I want to understand this codebase
+I want to understand the architecture
 ```
+
 ```
 Turn this into something I can learn from
 ```
