@@ -1,4 +1,4 @@
-# 理解 Rikai
+# Rikai
 
 > *Turn any codebase into a cinematic learning experience — built for the vibe coder who wants to understand what they built.*
 
